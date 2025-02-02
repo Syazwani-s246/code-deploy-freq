@@ -77,5 +77,4 @@ This project is licensed under the MIT License.
 - Do not share your token publicly.
 - Modify repository paths in `code_churn_rate.py` and `code_complexity.py` as per your local setup.
 
-For any questions or contributions, feel free to open an issue or submit a pull request!
 
