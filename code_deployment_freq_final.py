@@ -8,7 +8,7 @@ def fetch_all_releases(repo):
     page = 1
     while True:
         url = f"https://api.github.com/repos/{repo}/releases?page={page}&per_page=100"
-        headers = {"Authorization": "token <tokenhere>"}
+        headers = {"Authorization": "token ghp_XXXXXXXXXX"}
         response = requests.get(url, headers=headers)
         if response.status_code == 403:  # Check if rate limit is hit
             print("Rate limit exceeded. Please try again later.")
