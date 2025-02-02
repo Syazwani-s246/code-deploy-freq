@@ -23,7 +23,7 @@ def fetch_all_releases(repo):
 
 
 # Define the repository
-repository = "repo/repo-name"
+repository = "repo-owner-name/repo-name"
 
 
 # Fetch all releases for the repository
