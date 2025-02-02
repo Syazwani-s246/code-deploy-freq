@@ -1,4 +1,4 @@
-# Empirical Analysis of Software Maintainability Metrics in DevOps Environments
+#DevOps Maintainability Metrics
 
 This repository contains scripts used for extracting and analyzing software maintainability metrics in DevOps environments. The scripts facilitate data collection from GitHub repositories and analyze key metrics such as pull request activity, code deployment frequency, code churn rate, and code complexity.
 
